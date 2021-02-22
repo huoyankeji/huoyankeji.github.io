@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎你来到游戏的官方网站,网站是国外开源，所以访问速度有点儿慢，请您稍作等待
 
-You can use the [editor on GitHub](https://github.com/huoyankeji/huoyankeji.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以点击该[链接](http://sj.71acg.com/hykb/202102/20210220p012800473917_412.apk) 下载游戏,该游戏是一款像素RPG冒险类游戏,虽然听上去不是那么的好玩，还是推荐你下载
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this rep
 
 ### Markdown
 
@@ -12,10 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+# Header 2
+# Header 3
+- 
 - List
 
 1. Numbered
