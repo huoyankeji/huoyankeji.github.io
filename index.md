@@ -25,12 +25,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+编写那么的简单
 
-### Jekyll Themes
+### 关于主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huoyankeji/huoyankeji.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+关于所有的主题或代码请来到[github官网](github.com)
 
-### Support or Contact
+### 遇到了问题吗？请反馈
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+在此网页中，您遇到了什么问题？ [documentation](https://docs.github.com/categories/github-pages-basics/) 或者咨询我们的 [官方](https://support.github.com/contact) 有可能帮的上你.
